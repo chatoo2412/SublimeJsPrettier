@@ -79,6 +79,7 @@ PRETTIER_OPTION_CLI_MAP = [
 ]
 AUTO_FORMAT_FILE_EXTENSIONS = [
     'js',
+    'mjs',
     'jsx',
     'json',
     'graphql',
