@@ -3,3 +3,4 @@ flake8
 pep8-naming
 pytest==3.2.3
 pylint
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
